@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GaoKaoZhi</string>
+    <array name="weidu">
+        <item>发展前景</item>
+        <item>个人特点</item>
+        <item>经费</item>
+    </array>
+</resources>
